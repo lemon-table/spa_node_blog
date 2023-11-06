@@ -15,7 +15,7 @@ const generateRandomString = (num) => {
 };
 
 router.get("/", (req, res) => {
-  res.send("main test");
+  res.send("내배캠 장터");
 });
 
 // 상품 목록 조회
